@@ -34,8 +34,8 @@ public class febStudies {
 
 //		자치회 지원금으로 지원. 중복 지급 X
 
-//		class7Set == 7반 전체 컬렉션
-		Set<String> class7Set = new HashSet<>();
+//		class7Set == 7반 전체 컬렉션 'final'
+		final Set<String> class7Set = new HashSet<>();
 		for (int i = 0; i < class7.length; i++) {
 			class7Set.add(class7[i]);
 		}
