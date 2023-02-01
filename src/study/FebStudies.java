@@ -6,7 +6,7 @@ import java.util.Set;
 // SSAFY_9기_서울_7반
 // 스터디 현황(2023.02.01)
 
-public class febStudies {
+public class FebStudies {
 	public static void main(String[] args) {
 		// 서울 7반 명단 'final'
 		final String[] class7 = { "김경희", "김남진", "김민우", "김보경", "김용균", "김은솔", "김종혁", "김현수", "남윤정", "문홍웅", "박대균", "박종민",
